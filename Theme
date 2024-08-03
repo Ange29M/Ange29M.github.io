@@ -1,7 +1,0 @@
-# _config.yml
-title: Your Site Title
-description: Your site description
-baseurl: "" # The subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # The base hostname & protocol for your site
-
-theme: jekyll-theme-midnight
