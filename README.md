@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Car Detailing Company</title>
+    <title>Allens shine and detailing</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
