@@ -1,3 +1,9 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# _config.yml
+title: Your Site Title
+description: Your site description
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # The base hostname & protocol for your site
+
+theme: jekyll-theme-midnight
+
+# Other configurations...
