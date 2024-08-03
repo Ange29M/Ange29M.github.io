@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Car Detailing Company</h1>
+        <h1>Allens shine and detailing</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
