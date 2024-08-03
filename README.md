@@ -31,6 +31,4 @@
         <p>&copy; 2024 Car Detailing Company</p>
     </footer>
 </body>
-</html>theme: jekyll-theme-horizon-flow
-#remote_theme: papierkorp/jekyll-theme-horizon-flow #if you host on github pages
-
+</html> 
