@@ -19,7 +19,7 @@
     </header>
     <main>
         <section id="hero">
-            <h2>Professional Car Detailing Services</h2>
+            <h2>Car Detailing Services</h2>
             <p>Your car deserves the best care.</p>
         </section>
         <section id="overview">
