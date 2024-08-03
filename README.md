@@ -33,4 +33,4 @@
 </body>
 </html> 
 
-:theme:cvless 
+_config.yml:theme:cvless 
